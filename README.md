@@ -1,9 +1,9 @@
-# Web application to track finances using ReactJS, NodeJS, MongoDB, ExpressJS and ChartJS.
+# Web application to track finances using ReactJS, NodeJS, MongoDB, ExpressJS, and ChartJS.
 
 ## Available Scripts
 
 ### `npm install`
-Installs the dependencies for te application.\
+Installs the dependencies for the application.
 
 ### `npm start`
 
